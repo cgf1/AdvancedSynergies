@@ -1,24 +1,16 @@
 ## Title: |c66ccffAdvanced Synergies
-## Author: |c66ccffgeneric|r
+## Author: |c66ccffgeneric|r, |c66ffff|Valandil|r
 ## Description: Displays a synergy notification onscreen every time a synergy is available
-## Version: 1.0.2
-## APIVersion: 100023
+## AddonVersion 10003
+## APIVersion: 100033 100034
 ## SavedVariables: AdvancedSynergies
-## OptionalDependsOn: LibStub LibAddonMenu-2.0
+## OptionalDependsOn: LibAddonMenu-2.0
 
-libs\LibStub\LibStub.lua
-libs\LibAddonMenu-2.0\LibAddonMenu-2.0.lua
-libs\LibAddonMenu-2.0\controls\panel.lua
-libs\LibAddonMenu-2.0\controls\header.lua
-libs\LibAddonMenu-2.0\controls\checkbox.lua
-
-language\en.lua
-language\de.lua
+language/en.lua
+language/de.lua
 
 AdvancedSynergies.lua
 AdvancedSynergies.xml
-
-
 
 ; This Add-on is not created by, affiliated with or sponsored by ZeniMax
 ; Media Inc. or its affiliates. The Elder Scrolls® and related logos are
