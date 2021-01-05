@@ -1,0 +1,7 @@
+2021-01-04 (v1.0.3)
+
+- Under new management (Valandil).
+
+- Remove obsolete libraries and LibStub reliance.
+
+- Get working for API version 100033 (Markarth update 28).
